@@ -1,1 +1,1 @@
-This is a GIT tutorial we took on Thursday!
+This is a GIT tutorial we took on Thursday at midnight!
